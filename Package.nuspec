@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.1</version>
+    <authors>chen0040</authors>
+    <owners>chen0040</owners>
+    <licenseUrl>https://github.com/chen0040/cs-pdf-to-image/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/chen0040/cs-pdf-to-image</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pdf2Png</description>
+    <releaseNotes>Pdf to image converter for 32 bit .net programs that does not require installation of ghostscript</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>pdf-to-image, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
