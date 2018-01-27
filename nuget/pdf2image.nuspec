@@ -13,6 +13,8 @@
     <releaseNotes>Pdf to image converter for 32 bit .net programs that does not require installation of ghostscript</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>pdf-to-image, c-sharp</tags>
+	<title>Pdf2Png</title>
+	<summary>Pdf to image converter for 32 bit .net programs that does not require installation of ghostscript, support net40, net451, net452</summary>
     <dependencies>
       
     </dependencies>
