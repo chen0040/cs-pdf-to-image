@@ -1,0 +1,1 @@
+msbuild cs-pdf-to-image.sln
